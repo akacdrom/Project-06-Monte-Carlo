@@ -1,0 +1,16 @@
+C:\Users\akkus\Desktop\project6\bin\Debug\net5.0\project6.exe
+C:\Users\akkus\Desktop\project6\bin\Debug\net5.0\project6.deps.json
+C:\Users\akkus\Desktop\project6\bin\Debug\net5.0\project6.runtimeconfig.json
+C:\Users\akkus\Desktop\project6\bin\Debug\net5.0\project6.runtimeconfig.dev.json
+C:\Users\akkus\Desktop\project6\bin\Debug\net5.0\project6.dll
+C:\Users\akkus\Desktop\project6\bin\Debug\net5.0\ref\project6.dll
+C:\Users\akkus\Desktop\project6\bin\Debug\net5.0\project6.pdb
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.csprojAssemblyReference.cache
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.AssemblyInfoInputs.cache
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.AssemblyInfo.cs
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.csproj.CoreCompileInputs.cache
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.dll
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\ref\project6.dll
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.pdb
+C:\Users\akkus\Desktop\project6\obj\Debug\net5.0\project6.genruntimeconfig.cache
